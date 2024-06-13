@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+This app is a complete meal guide, containing recipe and ingredients to make that particular food of various categories. Further, one can add a food to their "favorites". There is also an option to filter foods according to need, like "vegeterian" food, "lactose-free" food, etc.
 
 ## Getting Started
 
